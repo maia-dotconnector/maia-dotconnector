@@ -4,4 +4,4 @@
 <div>
   
 </div>
-<https://github-readme-stats.vercel.app/api?username=maia-dotconnector&show_icons=true&bg_color=00000000)>
+![Maia's GitHub stats](https://github-readme-stats.vercel.app/api?username=maia-dotconnector&show_icons=true&theme=transparent)
